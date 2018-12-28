@@ -1,7 +1,7 @@
-# test
+# LanternfishProject
 
 > A Vue.js project
-
+>主页面实现了响应式效果
 ## Build Setup
 
 ``` bash
